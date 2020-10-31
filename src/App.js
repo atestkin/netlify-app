@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           My name is Amrit Leen Singh and I work in PayByPhone from last 2
-          years.
+          years. I am working on migration of AngularJS app to React.
         </p>
       </header>
     </div>
